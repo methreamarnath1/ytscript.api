@@ -1,5 +1,5 @@
 {
-  "name": "ai-news-summarizer-api",
+  "name": "ytscript.api",
   "version": "1.0.0",
   "description": "AI-powered news summarization API using NewsAPI and Gemini AI",
   "main": "server.js",
